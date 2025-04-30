@@ -1,7 +1,7 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=hustCYQ&color=blue&style=flat-square)
 
 I am a Ph.D student in Huazhong University of Science and Technology under the supervision of Prof. [Shen Weiming](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
-My research focuses on industrial vision inspection, and I have great enthusiasm and interest to apply my research to practical applications. Feel free to contact me if you have interests.
+My research focuses on industrial vision inspection, and I have great enthusiasm and interest to apply my research to practical applications. Feel free to contact me if you have interests. 😊😊😊
 
 
 [![hustCYQ stats](https://github-readme-stats.vercel.app/api?username=hustCYQ&theme=dark&show_icons=true)](https://github.com/hustCYQ)
