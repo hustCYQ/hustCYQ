@@ -4,7 +4,8 @@ I am a Ph.D student in Huazhong University of Science and Technology under the s
 My research focuses on industrial vision inspection, and I have great enthusiasm and interest to apply my research to practical applications. Feel free to contact me if you have interests. 😊😊😊
 
 
-[![hustCYQ stats](https://github-readme-stats.vercel.app/api?username=hustCYQ&theme=dark&show_icons=true)](https://github.com/hustCYQ)
+<!-- [![hustCYQ stats](https://github-readme-stats.vercel.app/api?username=hustCYQ&theme=dark&show_icons=true)](https://github.com/hustCYQ)  -->
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hustCYQ)
 
 :calendar: Hardworking programmer /  💻 PhD students in AI algorithms
 
