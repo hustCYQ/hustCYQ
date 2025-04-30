@@ -37,3 +37,8 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 - **2016.09 - 2020.06, Huazhong University of Science and Technology**
   ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hustCYQ/hustCYQ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hustCYQ/hustCYQ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hustCYQ/hustCYQ/output/github-contribution-grid-snake.svg">
+</picture>
