@@ -1,4 +1,4 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=foru17e&color=blue&style=flat-square)
+# Hi there 👋 ![](https://komarev.com/ghpvc/?username=hustCYQ&color=blue&style=flat-square)
 
 [![hustCYQ stats](https://github-readme-stats.vercel.app/api?username=hustCYQ&theme=dark&show_icons=true)](https://github.com/hustCYQ)
 
