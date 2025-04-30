@@ -23,7 +23,7 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 - 🐈 Pet parent to 3 cute cats .
 
 <div align="center" style="display: flex; justify-content: space-between">
-  <img src="/image/S.png" width="32%" />
+  <img src="/image/R.png" width="32%" />
   <img src="/image/S.png" width="32%" />
   <img src="/image/T.png" width="32%" />
 </div>
