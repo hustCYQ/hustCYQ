@@ -5,28 +5,29 @@
 :calendar: Hardworking programmer /  💻 PhD students in AI algorithms
 
 
-## About Me [HomePage](www.hustcyq.github.io)
-写几个主要荣誉：
-国奖、CVPR、挑战杯、论文多少篇、多少专利
-喜欢什么运动，有三只猫
-- ⌨️ Senior Front-End Developer / Full-Stack Developer
-- 🐾 Pet parent to 2 cats 🐈 and 1 Shiba Inu 🐕
-- ✍️ Blogging and tech reviews at [LUOLEI.ORG](https://luolei.org)
-- 🎬 Content creator on Youtube and Bilibili.
-- 📷 Passionate about photography. My photos have garnered 15M views and 80K downloads on [Unsplash](https://unsplash.com/@luolei)
-- ✈️ Globetrotter with travels to multiple countries 🇨🇳🇺🇸🇯🇵🇰🇷🇹🇭🇵🇭🇻🇳🇳🇵
-- 🏃 Completed **8** Marathons (26.2 miles/42.195km) with a personal best record ⏱️4h28m
-- 🤿 PADI® Open Water Diver licensed, certified at Bohol Island, Philippines
-- 🚲 Completed a one-month (exactly 29 days) bike trip to 🏔️Tibet, covering 2200 km.
+## About Me [Welcome to My HomePage](www.hustcyq.github.io)
 
-                                                                          |
 
-## Education Experience
-华科本硕博
+- Published 10+ papers in TASE, TIM, CVPR, ECCV, etc. (6 First Author). Reviewer of TSMC, TMM, TASE, TII, ICCV, ICRA, etc.
+- My researches have been applied in aviation, nuclear power, automobiles and other scenarios, contributing to over 30 patents.
+- Outstanding Reviewers of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
+- National First Price in "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
+- 2nd place in CVPR VAND Zero-shot Anomaly Detection Challenge. 2023.
+- National Scholarship. 2022.
+- Pet parent to 3 cute cats 🐈.
 
-- Apr 2024 - Present: Full-Stack Developer / Open to new opportunities
-- Jan 2021 - Mar 2024: Senior Front-End Developer at Yuewen Group (772.HK), Shenzhen
-- Jan 2019 - Oct 2020: Founder of ZUOLUOTV, Shenzhen
-- May 2015 - Sep 2015: Front-End Developer at Yuewen Group, Shanghai
-- Jul 2013 - May 2015: Intern & Junior Front-End Developer at Cheetah Mobile (NYSE: CMCM), Beijing
+
+
+# 📖 Educations
+                          
+- ### *2023.09 - present, Huazhong University of Science and Technology*
+  State Key Laboratory of Digital Manufacturing Equipment and Technology                               
+  ***Ph.D. Candidate*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
+ 
+- ### *2020.09 - 2023.06, Huazhong University of Science and Technology*
+  State Key Laboratory of Digital Manufacturing Equipment and Technology                               
+  ***M.S.*** in Mechanical Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Advisor**: [Wenlong Li](http://mse.hust.edu.cn/info/1142/1340.htm)
+ 
+- ### *2016.09 - 2020.06, Huazhong University of Science and Technology*
+  ***B.S.*** in Mechanical Design, Manufacture & Automation &nbsp;&nbsp;&nbsp; 
 
