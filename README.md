@@ -22,6 +22,11 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 - :tada: National Scholarship. 2022.
 - 🐈 Pet parent to 3 cute cats .
 
+<div align="center" style="display: flex; justify-content: space-between">
+  <img src="图片1地址" width="32%" />
+  <img src="图片2地址" width="32%" />
+  <img src="图片3地址" width="32%" />
+</div>
 
 
 # 📖 Educations
