@@ -8,13 +8,13 @@
 ## About Me [Welcome to My HomePage](www.hustcyq.github.io)
 
 
--:page_facing_up: Published 10+ papers in TASE, TIM, CVPR, ECCV, etc. (6 First Author). Reviewer of TSMC, TMM, TASE, TII, ICCV, ICRA, etc.
--:hammer: My researches have been applied in aviation, nuclear power, automobiles and other scenarios, contributing to over 30 patents.
--:tada: Outstanding Reviewers of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
--:tada: National First Price in "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
--:tada: 2nd place in CVPR VAND Zero-shot Anomaly Detection Challenge. 2023.
--:tada: National Scholarship. 2022.
--🐈 Pet parent to 3 cute cats .
+- :page_facing_up: Published 10+ papers in TASE, TIM, CVPR, ECCV, etc. (6 First Author). Reviewer of TSMC, TMM, TASE, TII, ICCV, ICRA, etc.
+- :hammer: My researches have been applied in aviation, nuclear power, automobiles and other scenarios, contributing to over 30 patents.
+- :tada: Outstanding Reviewers of the IEEE Instrumentation and Measurement Society (IEEE TIM). 2024.
+- :tada: National First Price in "Challenge Cup" National College Student Business Plan Competition. 2023. (Leader)
+- :tada: 2nd place in CVPR VAND Zero-shot Anomaly Detection Challenge. 2023.
+- :tada: National Scholarship. 2022.
+- 🐈 Pet parent to 3 cute cats .
 
 
 
