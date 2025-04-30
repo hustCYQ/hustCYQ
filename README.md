@@ -22,10 +22,10 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 - :tada: National Scholarship. 2022.
 - 🐈 Pet parent to 3 cute cats .
 
-<div align="center" style="display: flex; justify-content: space-between">
-  <img src="/image/R.png" width="20%" />
-  <img src="/image/S.png" width="20%" />
-  <img src="/image/T.png" width="20%" />
+<div align="left" style="display: flex; justify-content: space-between">
+  <img src="/image/R.png" width="2%" />
+  <img src="/image/S.png" width="32%" />
+  <img src="/image/T.png" width="32%" />
 </div>
 
 
