@@ -9,7 +9,7 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 :calendar: Hardworking programmer /  💻 PhD students in AI algorithms
 
 
-## About Me [Welcome to My HomePage](www.hustcyq.github.io)
+## About Me [Welcome to My HomePage](https://hustcyq.github.io)
 
 
 - :page_facing_up: Published 10+ papers in TASE, TIM, CVPR, ECCV, etc. (6 First Author). Reviewer of TSMC, TMM, TASE, TII, ICCV, ICRA, etc.
