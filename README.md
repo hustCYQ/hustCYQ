@@ -6,7 +6,7 @@ My research focuses on industrial vision inspection, and I have great enthusiasm
 
 <!-- [![hustCYQ stats](https://github-readme-stats.vercel.app/api?username=hustCYQ&theme=dark&show_icons=true)](https://github.com/hustCYQ)  -->
 
-![hustCYQ's GitHub stats](https://github-immortality.vercel.app/api?username=hustCYQ)
+<!-- ![hustCYQ's GitHub stats](https://github-immortality.vercel.app/api?username=hustCYQ) -->
 
 :calendar: Hardworking programmer /  💻 PhD students in AI algorithms
 
